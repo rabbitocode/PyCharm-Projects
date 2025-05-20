@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import requests
 from datetime import datetime, timedelta
 
-
+# Keys are inactive
 class FlightSearch:
     def __init__(self):
         self.AMADEUS_ENDPOINT = "https://test.api.amadeus.com/v2/shopping/flight-offers"

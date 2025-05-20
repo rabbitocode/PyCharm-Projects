@@ -4,9 +4,9 @@ import time
 import smtplib
 
 MY_EMAIL = "davidbengtsson321@gmail.com"
-PASSWORD = "fdhveyrdpsqzghif"
+PASSWORD = ""
 
-
+# Eslöv lat/lon
 MY_LAT = 55.839260 # Your latitude
 MY_LONG = 13.303820 # Your longitude
 

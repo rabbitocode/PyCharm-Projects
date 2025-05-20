@@ -10,7 +10,7 @@ week = yesterday - timedelta(days=7)
 to_date = yesterday
 
 MY_EMAIL = "davidbengtsson321@gmail.com"
-PASSWORD = "fdhveyrdpsqzghif"
+PASSWORD = ""
 
 NEWS_API = "e8a04019f74c4280b5b3cb064b77f311"
 STOCK_API = "Ncaedkta_HS17kgHsz4hc3D2rvUDqWhq"

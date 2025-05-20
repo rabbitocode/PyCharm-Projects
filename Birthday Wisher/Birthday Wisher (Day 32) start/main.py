@@ -37,7 +37,7 @@ if day_of_week == 0:
     print(quote)
 
     my_email = "davidbengtsson321@gmail.com"
-    password = "fdhveyrdpsqzghif"
+    password = ""
 
     with smtplib.SMTP("smtp.gmail.com") as connection:
         connection.starttls()

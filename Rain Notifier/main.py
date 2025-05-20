@@ -3,11 +3,11 @@ import smtplib
 
 
 MY_EMAIL = "davidbengtsson321@gmail.com"
-PASSWORD = "fdhveyrdpsqzghif"
+PASSWORD = ""
 
 
 
-
+# Inactive key
 api_key = "a800293d2c9ac5a4fc24713fad372c1a"
 
 
@@ -15,7 +15,7 @@ ENDPOINT = "https://api.openweathermap.org/data/2.5/forecast"
 
 
 
-
+# Eslöv lat/lon
 MY_LAT = 55.839260 # Your latitude
 MY_LONG = 13.303820 # Your longitude
 

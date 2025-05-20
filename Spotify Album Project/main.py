@@ -7,7 +7,7 @@ import time
 
 # Spotify setup
 CLIENT_ID = "f7b2ec9ff2354c0986a83f49a8513f8f"
-CLIENT_SECRET = "7c67ef85f01d49d5a18463526c9705d5"
+CLIENT_SECRET = ""
 REDIRECT_URI = "http://example.com"
 
 os.environ['SPOTIPY_CLIENT_ID'] = CLIENT_ID

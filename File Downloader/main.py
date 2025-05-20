@@ -27,7 +27,7 @@ def download_file(url):
 
 
 # URL of the webpage containing links
-webpage_url = 'https://romhub.io/COURSE/server1/UDEMY%20COURSES/Complete%20Blender%20Creator:%20Learn%203D%20Modelling%20for%20Beginners/01%20-%20Introduction%20&%20Setup%20-%20New%20Blender%203.2%20Content'
+webpage_url = 'https'
 
 # Get the HTML content of the webpage
 print(f"Fetching webpage content from: {webpage_url}")
