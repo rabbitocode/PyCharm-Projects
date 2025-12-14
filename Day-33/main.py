@@ -15,8 +15,8 @@ from datetime import datetime
 #
 # print(iss_position)
 
-MY_LATITUDE = 55.839260
-MY_LONGITUDE = 13.303820
+MY_LATITUDE = ""
+MY_LONGITUDE = ""
 
 
 
