@@ -36,7 +36,7 @@ if day_of_week == 0:
 
     print(quote)
 
-    my_email = "davidbengtsson321@gmail.com"
+    my_email = ""
     password = ""
 
     with smtplib.SMTP("smtp.gmail.com") as connection:
@@ -44,6 +44,6 @@ if day_of_week == 0:
         connection.login(user=my_email, password=password)
         connection.sendmail(
             from_addr=my_email,
-            to_addrs="rabbitoman123@gmail.com",
+            to_addrs="",
             msg=f"Subject:Motivational Quote\n\n{quote}"
         )
