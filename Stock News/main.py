@@ -12,8 +12,8 @@ to_date = yesterday
 MY_EMAIL = "davidbengtsson321@gmail.com"
 PASSWORD = ""
 
-NEWS_API = "e8a04019f74c4280b5b3cb064b77f311"
-STOCK_API = "Ncaedkta_HS17kgHsz4hc3D2rvUDqWhq"
+NEWS_API = ""
+STOCK_API = ""
 
 STOCK_NAME = "TSLA"
 COMPANY_NAME = "Tesla"
