@@ -17,13 +17,13 @@ pixela_endpoint = "https://pixe.la/v1/users"
 
 
 USERNAME = "rabbito"
-TOKEN = "KOIj43210dsak312ok"
+TOKEN = ""
 GRAPH_ID = "graph1"
 
 
 
 user_params = {
-    "token": "KOIj43210dsak312ok",
+    "token": "",
     "username": "rabbito",
     "agreeTermsOfService": "yes",
     "notMinor": "yes",
